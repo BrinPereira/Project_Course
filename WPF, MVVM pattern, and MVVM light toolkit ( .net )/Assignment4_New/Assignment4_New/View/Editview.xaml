@@ -1,0 +1,42 @@
+﻿<Window x:Class="Assignment4_New.View.Editview"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:local="clr-namespace:Assignment4_New.View"
+        mc:Ignorable="d"
+        Title="Editview" Height="400" Width="550">
+
+
+    <Grid DataContext="{Binding Main, Source={StaticResource Locator}}">
+        
+        <Button Content="UPDATE" HorizontalAlignment="Left" Margin="46,294,0,0" VerticalAlignment="Top" Width="75" Height="43"
+                Command="{Binding SelectedMemberUpdateCommand}"/>
+          
+        <Button Content="DELETE" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="226,294,0,0" Height="43"
+            Command="{Binding SelectedMemberDeleteCommand}"/>
+        
+        <Button Content="CANCEL" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="406,294,0,0" Height="43"
+              Command="{ Binding cancelCommand }" />
+        
+        <Label Content="First Name" HorizontalAlignment="Left" Margin="34,56,0,0" VerticalAlignment="Top" Width="126" FontSize="20"
+               FontFamily="Bookman old style" />
+        
+        <Label Content="Second Name" HorizontalAlignment="Left" Margin="34,128,0,0" VerticalAlignment="Top" Width="149" FontSize="20"
+               FontFamily="Bookman old style"/>
+        
+        <Label Content="Email" HorizontalAlignment="Left" Margin="34,202,0,0" VerticalAlignment="Top" Width="138" FontSize="20"
+               FontFamily="Bookman old style"/>
+        
+        <TextBox HorizontalAlignment="Left" Height="42" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Margin="201,56,0,0" 
+                 Text="{Binding SelectedMember.FirstName}"/>
+        
+        <TextBox HorizontalAlignment="Left" Height="42" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Margin="201,128,0,0"
+                 Text="{Binding SelectedMember.LastName}"/>
+        
+        <TextBox HorizontalAlignment="Left" Height="42" TextWrapping="Wrap" VerticalAlignment="Top" Width="311" Margin="201,193,0,0"
+                 Text="{Binding SelectedMember.Email}"/>
+        
+    </Grid>
+</Window>

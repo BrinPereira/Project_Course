@@ -1,0 +1,36 @@
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\bin\Debug\Books.mdf
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\bin\Debug\Assignment5_1.exe.config
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\bin\Debug\Assignment5_1.exe
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\bin\Debug\Assignment5_1.pdb
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\bin\Debug\EntityFramework.dll
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\bin\Debug\EntityFramework.xml
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csprojResolveAssemblyReference.cache
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\MainWindow.g.cs
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\App.g.cs
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1_Content.g.cs
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1_MarkupCompile.cache
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1_MarkupCompile.lref
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\MainWindow.baml
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.g.resources
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.Properties.Resources.resources
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csproj.GenerateResource.Cache
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.exe
+c:\users\brinp\documents\visual studio 2017\Projects\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.pdb
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csprojResolveAssemblyReference.cache
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\MainWindow.g.cs
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\App.g.cs
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1_Content.g.cs
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1_MarkupCompile.cache
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1_MarkupCompile.lref
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.exe
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.pdb
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\bin\Debug\Books.mdf
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\bin\Debug\Assignment5_1.exe.config
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\bin\Debug\Assignment5_1.exe
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\bin\Debug\Assignment5_1.pdb
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\bin\Debug\EntityFramework.dll
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\bin\Debug\EntityFramework.xml
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\MainWindow.baml
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.g.resources
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.Properties.Resources.resources
+F:\CSU LONG BEACH\summer 2017\dotnet\Assignment5_1\Assignment5_1\obj\Debug\Assignment5_1.csproj.GenerateResource.Cache
