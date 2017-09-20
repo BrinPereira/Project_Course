@@ -1,0 +1,11 @@
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\bin\Debug\netcoreapp1.1\mvcMovie.deps.json
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\bin\Debug\netcoreapp1.1\mvcMovie.runtimeconfig.json
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\bin\Debug\netcoreapp1.1\mvcMovie.runtimeconfig.dev.json
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\bin\Debug\netcoreapp1.1\mvcMovie.dll
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\bin\Debug\netcoreapp1.1\mvcMovie.pdb
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\obj\Debug\netcoreapp1.1\mvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\obj\Debug\netcoreapp1.1\mvcMovie.Properties.Resources.resources
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\obj\Debug\netcoreapp1.1\mvcMovie.csproj.GenerateResource.Cache
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\obj\Debug\netcoreapp1.1\mvcMovie.AssemblyInfo.cs
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\obj\Debug\netcoreapp1.1\mvcMovie.dll
+C:\Users\Umang\Desktop\Brin\mvcMovie\mvcMovie\obj\Debug\netcoreapp1.1\mvcMovie.pdb
